@@ -1,0 +1,6 @@
+{
+	"appId": "com.credovita.capacitorsvelteescpos",
+	"appName": "capacitor-svelte-escpos",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
